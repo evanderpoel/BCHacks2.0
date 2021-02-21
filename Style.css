@@ -76,6 +76,24 @@ p{
 .header .row{
     margin-top: 70px;
 }
+.shop{
+    margin:70px 0;
+
+}
+.col-3{
+    float: left;
+    width: 33.33%;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+.col-3 img{
+    height:200px;
+    width: 400px;
+    border: 5px solid black;
+}
+.prodTitle{
+    text-align: center;
+}
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
     width: 100%; /* Full width */
