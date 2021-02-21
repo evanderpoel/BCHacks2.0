@@ -67,6 +67,8 @@ p{
     border-radius: 30px;
     transition: background 0.25s;
 }
+
+
 .btn:hover{
     background: #563434;
 }
